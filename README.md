@@ -13,7 +13,7 @@ To get started, first install all the necessary dependencies.
 
 Run an initial webpack build
 ```
-> webpack
+> webpack (Make sure to run 'npm install -g webpack' before this. You need to setup webpack before using it)
 ```
 
 Start the development server (changes will now update live in browser)
